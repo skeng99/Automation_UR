@@ -13,10 +13,6 @@ Test Automation Script for User Registration.
 - Need to download Pycharm(recommended) or any other IDE
 - Need local server: local(recommended) or other
 - Download and install python:https://www.python.org/downloads/
-- Create wordpress site with following credentials:
-    - site name: UR_3.0.0
-    - wordpress username: admin
-    - wordpress password: admin
 
 - install and activate user registration free and pro plugin
 
